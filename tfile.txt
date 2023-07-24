@@ -1,0 +1,16 @@
+{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2RhdGEiOjEsImV4cCI6MTY5MDE5ODA5OH0.3g8X2qbR8ZvUk52q9p_ITWHrm3cd6bWRJl0sbuXaHF4"
+},
+
+Login Token
+
+{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2RhdGEiOjEsImV4cCI6MTY5MDE5ODIxNH0.9DalUuUd6UjciFK__tkecc7PwfRj-ezoSFg5v53RME0"
+}
+
+eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2RhdGEiOjMsImV4cCI6MTY5MDIwNTc2OX0.yCszE4EOt8VIByPY-tZ8iFOPG04Jx7229wlP69ylrEc
+
+{
+  "email": "syedalizain70@gmail.com",
+  "password": "12345"
+}

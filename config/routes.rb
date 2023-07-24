@@ -7,4 +7,8 @@ Rails.application.routes.draw do
 
   resources :books
   delete "/books/destroy/all", to:"books#destroy_all" 
+
+  post "/login", to: "sessions#login"
+  post "/signup", to: "sessions#signup"
+  
 end
